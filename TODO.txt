@@ -1,0 +1,17 @@
+index.php -> Done
+modeleAccueil.php -> Done
+vueAccueil.php -> Done
+
+nouvelle_reservation.php -> Done
+modeleNouvelleReservation.php -> Done
+
+modifier_reservation.php -> Done
+modeleModifierReservation.php -> Done
+vueModifierReservation.php -> Done
+
+confirmer_suppression.php -> Done
+miseajour_reservation.php -> Done
+supprimer_reservation.php -> Done
+ajouter gabarit -> Done
+ajouter autocomplétion -> Done
+ajouter lien deuxieme table -> Done
